@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="not-that-importance-delete-later">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/not-that-importance-delete-later.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
