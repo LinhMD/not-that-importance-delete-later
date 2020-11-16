@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a48a20aa-03e0-45b0-b710-ea6e1ebeb617" name="Default Changelist" comment="fix typo in README.md" />
+    <list default="true" id="a48a20aa-03e0-45b0-b710-ea6e1ebeb617" name="Default Changelist" comment="fix typo in README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinhMD/MathUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinhMD/MathUtility.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +41,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MathUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinhMD.MathUtility" />
+      <module name="not-that-importance-delete-later" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinhMD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MathUtility" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605331510251</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix README.md">
+      <created>1605492681972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605492681972</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,12 +111,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Add README" />
     <MESSAGE value="fix typo in README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix typo in README.md" />
+    <MESSAGE value="Fix README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605327511174">
@@ -97,13 +129,29 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1605327506519" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1605493563020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1605493563020" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1605493563020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1605493563020" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1605493563020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1605493563020" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1605493563020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605493563020" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1605327589612">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1605327589612" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1605331514595">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1605492734721">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605331514595" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605492734721" />
   </component>
 </project>
