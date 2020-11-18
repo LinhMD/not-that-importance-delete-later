@@ -24,5 +24,6 @@ public class MathUtility {
         }
         System.out.println(Long.MAX_VALUE);
         System.out.println(getFactorial(-5));
+        System.out.println("nah");
     }
 }
